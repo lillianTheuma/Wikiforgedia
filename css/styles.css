@@ -1,0 +1,12 @@
+#sidebar{
+  display: block;
+  height: 100%;
+  width: 150px;
+  position: fixed;
+  padding: 2px 15px;
+  background-color:#fffef7;
+}
+#topbar{
+  float: right;
+
+}
